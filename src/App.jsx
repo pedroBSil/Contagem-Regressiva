@@ -5,7 +5,7 @@ import useConutDown from './hooks/userCountDown'
 import './App.css'
 
 function App() {
-  const [day,hour,minute,second] = useConutDown ('jan 1, 2024 00:00:00')
+  const [day,hour,minute,second] = useConutDown ('jan 1, 2025 00:00:00')
   
 
 
